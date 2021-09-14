@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luís Gomes</h1>
 <h3 align="center">Frontend Developer</h3>
-
+<img src="https://avatars.githubusercontent.com/u/72167417?v=4"/>
 - 🌱 I’m currently learning **Typescript, Nodejs**
 
 - 📫 How to reach me **luis252001@hotmail.com**
